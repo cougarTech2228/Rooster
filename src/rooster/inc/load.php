@@ -6,3 +6,5 @@
  * Time: 19:31
  * Project: Rooster
  */
+
+require APP . 'vendor' . DS . 'autoload.php';

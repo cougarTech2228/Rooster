@@ -1,0 +1,10 @@
+{
+    "config": {
+        "vendor-dir": "rooster/vendor"
+    },
+    "require": {
+        "mustache/mustache": "~2.5",
+        "sendgrid/sendgrid": "~4.0",
+        "spomky-labs/otphp": "^6.0"
+    }
+}
